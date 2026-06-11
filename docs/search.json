@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "melson1618.github.io",
+    "title": "Mary Elson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Postdoctoral Associate in Behavioral Evolutionary Neuroscience\nCornell University\nI am broadly interested in how ultimate and proximate mechanisms shape acoustic communication across different species. During my PhD I examined how communication during social interactions shapes preferences in the monogamous zebra finch. For many species courtship is approached using a linear signal-receiver model of communication that tends to omit the dynamic nature of these interactions. My work integrates three different levels of analysis – behavioral interaction, neurobiology, and communication theory – to ask questions about pair bond and preference formation and extend the systems model of communication."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mary Elson",
+    "section": "Education",
+    "text": "Education\nPhD, Cornell University | 2025\nMA, Cornell University | 2021\nMSc, University of Edinburgh | 2018\nBS & BA, University of Minnesota | 2016"
+  },
+  {
+    "objectID": "index.html#published",
+    "href": "index.html#published",
+    "title": "Mary Elson",
+    "section": "Published",
+    "text": "Published\nElson, M. R., Hsu, R. K., Ophir, A. G., & Prior, N. H. (2026). Beyond Song—An Investigation of Song and Social Preferences in a Monogamous Songbird. Annals of the New York Academy of Sciences, 1557(1), e70216. https://doi.org/10.1111/nyas.70216\nPrior, N. H., Fishbein, A. R., Garcia, E. M., Clough, S., Elson, M. R., Ball, G. F., & Dooling, R. J. (2025). Assessing female call responses to syllable level details in song. Frontiers in Psychology, 16. https://doi.org/10.3389/fpsyg.2025.1523105\nElson, M. R., Prior, N. H., & Ophir, A. G. (2024). Neuroendocrine Mechanisms Underlying Reproductive Decision Making Across Taxa. In H. K. Caldwell & H. E. Albers (Eds.), Neuroendocrinology of Behavior and Emotions: Environmental and Social Factors Affecting Behavior (pp. 157–191). Springer International Publishing. https://doi.org/10.1007/978-3-031-51112-7_7\nFaust, K. M., Carouso-Peck, S., Elson, M. R., & Goldstein, M. H. (2020). The Origins of Social Knowledge in Altricial Species. Annual Review of Developmental Psychology, 2(1), null. https://doi.org/10.1146/annurev-devpsych-051820-121446"
+  },
+  {
+    "objectID": "index.html#in-progress",
+    "href": "index.html#in-progress",
+    "title": "Mary Elson",
+    "section": "In Progress",
+    "text": "In Progress\nElson MR, Ball GF, & Prior NH. Context and dopamine dependent effects on female vocal behavior in a monogamous songbird. In prep.\nRivera GL+, Elson MR+, Prior NH. Wooing by example – early social experience shapes female calling during courtship interactions. In prep.\nElson MR, Ophir AG, & Prior NH. She loves me, she loves me not – how internal state and social context drive female preferences. In prep."
   }
 ]
