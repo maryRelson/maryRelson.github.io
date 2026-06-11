@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "melson1618.github.io"
+  title: "merelson3.github.io"
   navbar:
     left:
       - href: index.qmd
